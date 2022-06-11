@@ -7,7 +7,9 @@ const SignUp = () => {
     
     const [email, setEmail] = React.useState('');
     const [password, setPassword] = React.useState('');
-    const [passwordConfirm, setPasswordConfirm] = React.useState('');
+	const [passwordConfirm, setPasswordConfirm] = React.useState('');
+	
+	
     const handleSubmit = (e) => {
         e.preventDefault();
         alert(' SignUp successfully created ')
@@ -17,7 +19,6 @@ const SignUp = () => {
     return (
 			<>
 				<div className='sign-up__body'>
-               
 					<div className='form-sign-up'>
 						<h1 className='sign-up__title'>Welcome Create Account</h1>
 						<form onSubmit={handleSubmit}>

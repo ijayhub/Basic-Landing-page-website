@@ -24,9 +24,11 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Repo_name: https://basic-landing-page-website.vercel.app
 
-Hosted link: https://github.com/ijayhub/basic-landing-page-website
+Repo_name: https://github.com/ijayhub/basic-landing-page-website
+
+Hosted link:  https://basic-landing-page-website.vercel.app
+
 
 <h1 align="center">Basic Website</h1>
 
